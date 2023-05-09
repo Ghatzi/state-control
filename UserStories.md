@@ -1,11 +1,11 @@
 # User Stories for State Control
 
-1. [ ] Create repository
-2. [ ] Add react-router-dom
+1. [x] Create repository
+2. [x] Add react-router-dom
 3. [ ] Create home page ('/') + user + user/:id routes
 4. [ ] Create Layout component
 5. [ ] Footer + header
-6. [ ] Set up JSON server for CRUD operations (mock some data) (firstname, lastname, username, admin, timestamp)
+6. [x] Set up JSON server for CRUD operations (mock some data) (firstname, lastname, username, admin, timestamp)
 7. [ ] Return user list
 8. [ ] Add user functionality
 9. [ ] Edit user functionality

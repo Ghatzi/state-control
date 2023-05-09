@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "jondoe123",
+      "password": "!12345",
+      "firstName": "jon",
+      "lastName": "doe",
+      "isAdmin": true,
+      "createdDate": "May 09, 2023 4:38:07 PM",
+      "updatedDate": "May 09, 2023 4:38:07 PM"
+    },
+    {
+      "id": 2,
+      "username": "janedoe987",
+      "password": "!12345",
+      "firstName": "jane",
+      "lastName": "doe",
+      "isAdmin": false,
+      "createdDate": "May 09, 2023 4:38:07 PM",
+      "updatedDate": "May 09, 2023 4:38:07 PM"
+    }
+  ]
+}
